@@ -135,6 +135,6 @@ October 13, 2025
 ---
 
 ## 🧑‍💻 Author
-**Ally Ngonyani**  
-📧 your-email@example.com  
+**Ally A. Ngonyani**  
+📧 ally.a.ngonyany36@gmail.com 
 💻 [GitHub](https://github.com/allyosman)
